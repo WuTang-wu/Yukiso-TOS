@@ -30,7 +30,7 @@ Your information is visible to authorized Studio staff involved in reviewing app
 
 ## 4. How long we keep it
 
-We keep application data for **1 months** after your application is closed, then delete it, unless you ask us to remove it sooner.
+We keep application data for **1 month** after your application is closed, then delete it, unless you ask us to remove it sooner.
 
 ## 5. Your choices
 
