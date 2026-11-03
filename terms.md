@@ -46,7 +46,7 @@ To the fullest extent permitted by law, the Studio is not liable for any indirec
 
 ## 9. Privacy
 
-Your use of the Bot is also covered by our Privacy Policy
+Your use of the Bot is also covered by our Privacy Policy: https://wutang-wu.github.io/Yukiso-TOS/privacy
 
 ## 10. Changes
 
