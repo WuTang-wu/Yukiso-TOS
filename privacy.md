@@ -9,7 +9,7 @@ This policy explains what information the Bot collects, why, and what you can do
 ## 1. Information we collect
 
 When you use the Bot to apply or communicate with us, we may collect:
-- **Discord information:** your Discord user ID, username, and (where relevant).
+- **Discord information:** your Discord user and ID, username.
 - **Application content:** the answers, portfolio links, files, and other material you submit.
 - **Messages:** messages exchanged between you and Studio staff through the Bot.
 
